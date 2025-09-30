@@ -17,11 +17,11 @@ const Header = () => {
               <NavLink style={{textDecoration:'none'
             }} to='/'>home</NavLink></li>
             <li>
-              <NavLink style={{textDecoration: 'none'}}>contact</NavLink></li>
+              <NavLink style={{textDecoration: 'none'}} to='/contact'>contact</NavLink></li>
             <li>
-              <NavLink style={{textDecoration: 'none'}}>about</NavLink></li>
+              <NavLink style={{textDecoration: 'none'}} to='/about'>about</NavLink></li>
             <li>
-              <NavLink style={{textDecoration: 'none'}}>country</NavLink></li>
+              <NavLink style={{textDecoration: 'none'}} to='/country'>country</NavLink></li>
           </ul>
         </nav>
       </div>
