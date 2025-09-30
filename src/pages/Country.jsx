@@ -2,7 +2,9 @@ import React from 'react'
 
 const Country = () => {
   return (
-    <div>Country</div>
+    <div>
+      <h1>country</h1>
+    </div>
   )
 }
 
