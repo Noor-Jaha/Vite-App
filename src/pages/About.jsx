@@ -9,7 +9,8 @@ const About = () => {
         <br />
         We're proud of
       </h2>
-      <div className="gradient-card">
+
+      <div className="gradient-cards">
 
         {
           countryFacts.map((country) => {
@@ -36,9 +37,7 @@ const About = () => {
         </div>
             )
           })
-        }
-
-    
+        }  
 
       </div>
     </section>
