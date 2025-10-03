@@ -47,7 +47,7 @@ const Footer = () => {
           </li>
           <li><NavLink to='/contact'>Contact</NavLink>
           </li>
-              <li><NavLink to='/'>Source code</NavLink>
+              <li><NavLink to='https://github.com/Noor-Jaha/Vite-App'>Source code</NavLink>
           </li>
         </ul>
       </div>
