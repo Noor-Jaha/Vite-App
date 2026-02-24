@@ -1,3 +1,17 @@
+<<<<<<< HEAD
+  
+
+  const App = () => {
+    return (
+      <div className="App">
+        <h1>Welcome to the E-Commerce App</h1>
+      </div>
+    )
+  }
+
+
+  export default App;
+=======
 import { createBrowserRouter, RouterProvider } from "react-router-dom"
 import "./App.css"
 import Home from "./pages/Home"
@@ -47,3 +61,4 @@ const App = () => {
 }
 
 export default App
+>>>>>>> 4412fc5328ac86e993606191c0c0c03d070e824c
